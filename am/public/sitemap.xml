@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qarriltd.github.io/testp1/am/categories/</loc>
+    <loc>https://qarriltd.github.io/testp1/am/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://qarriltd.github.io/testp1/am/</loc>
+    <loc>https://qarriltd.github.io/testp1/am/public/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://qarriltd.github.io/testp1/am/tags/</loc>
+    <loc>https://qarriltd.github.io/testp1/am/public/tags/</loc>
     <priority>0</priority>
   </url>
   
