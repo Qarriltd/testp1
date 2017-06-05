@@ -2,32 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jun 2017 09:51:39 +0300</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>good to great</title>
-      <link>/post/good-to-great/</link>
+      <link>http://localhost:1313/post/topic1/</link>
       <pubDate>Thu, 01 Jun 2017 09:51:39 +0300</pubDate>
       
-      <guid>/post/good-to-great/</guid>
-      <description> Title h1 Title h2 Title h3 I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.
-   Tables Are Cool Cool     col 3 is right-aligned $1600 $1600   col 2 is centered $12 $1600   zebra stripes are neat $1 $1600   zebra stripes are neat $1 $1600   zebra stripes are neat $1    zebra stripes are neat $1    zebra stripes are neat $1     </description>
+      <guid>http://localhost:1313/post/topic1/</guid>
+      <description>Topic 1 Title Lorem ipsum dolor sit amet, his dolores scriptorem eu, vix velit offendit ei. At augue commodo dolorum has. An partem eirmod menandri sea, nulla inermis sit eu. Vix ut nihil noster, nibh quas utinam duo ei, an aliquam gloriatur consetetur qui. Erant reprehendunt ei nec.
+Has ad dicam postulant, sint malis albucius no sea. Affert eruditi id pri. Nulla accusata euripidis qui eu, no qui adipisci forensibus appellantur.</description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>/post/test/</link>
+      <title>topic 2</title>
+      <link>http://localhost:1313/post/topic2/</link>
       <pubDate>Thu, 01 Jun 2017 09:51:39 +0300</pubDate>
       
-      <guid>/post/test/</guid>
-      <description>test</description>
+      <guid>http://localhost:1313/post/topic2/</guid>
+      <description>Topic 2 Title Lorem ipsum dolor sit amet, his dolores scriptorem eu, vix velit offendit ei. At augue commodo dolorum has. An partem eirmod menandri sea, nulla inermis sit eu. Vix ut nihil noster, nibh quas utinam duo ei, an aliquam gloriatur consetetur qui. Erant reprehendunt ei nec.
+Has ad dicam postulant, sint malis albucius no sea. Affert eruditi id pri. Nulla accusata euripidis qui eu, no qui adipisci forensibus appellantur.</description>
+    </item>
+    
+    <item>
+      <title>topic 3</title>
+      <link>http://localhost:1313/post/topic3/</link>
+      <pubDate>Thu, 01 Jun 2017 09:51:39 +0300</pubDate>
+      
+      <guid>http://localhost:1313/post/topic3/</guid>
+      <description>Topic 3 Title Lorem ipsum dolor sit amet, his dolores scriptorem eu, vix velit offendit ei. At augue commodo dolorum has. An partem eirmod menandri sea, nulla inermis sit eu. Vix ut nihil noster, nibh quas utinam duo ei, an aliquam gloriatur consetetur qui. Erant reprehendunt ei nec.
+Has ad dicam postulant, sint malis albucius no sea. Affert eruditi id pri. Nulla accusata euripidis qui eu, no qui adipisci forensibus appellantur.</description>
+    </item>
+    
+    <item>
+      <title>topic 4</title>
+      <link>http://localhost:1313/post/topic4/</link>
+      <pubDate>Thu, 01 Jun 2017 09:51:39 +0300</pubDate>
+      
+      <guid>http://localhost:1313/post/topic4/</guid>
+      <description>Topic 4 Title Lorem ipsum dolor sit amet, his dolores scriptorem eu, vix velit offendit ei. At augue commodo dolorum has. An partem eirmod menandri sea, nulla inermis sit eu. Vix ut nihil noster, nibh quas utinam duo ei, an aliquam gloriatur consetetur qui. Erant reprehendunt ei nec.
+Has ad dicam postulant, sint malis albucius no sea. Affert eruditi id pri. Nulla accusata euripidis qui eu, no qui adipisci forensibus appellantur.</description>
     </item>
     
   </channel>
