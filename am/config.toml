@@ -1,0 +1,7 @@
+baseURL = "https://qarriltd.github.io/testp1/am"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[Params]
+  Author = "Karri"
+  search = true
